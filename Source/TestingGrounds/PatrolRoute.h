@@ -19,7 +19,7 @@ public:
 
 private:
 	// TODO remove or create Getter fuction
-	UPROPERTY(EditInstanceOnly, Category = "Patrol Route")
+	UPROPERTY(EditAnywhere, Category = "Patrol Route")
 	TArray<AActor*> Waypoints;
 
 		
