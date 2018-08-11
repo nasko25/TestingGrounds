@@ -3,7 +3,8 @@ DerivedDataCache
 Intermediate
 Saved
 Content/StarterContent/
-Content/AnimStarterPack/
+Content/AnimStarterPack/*
+!Content/AnimStarterPack/Ue4ASP_Character.uasset/
 .vscode
 .vs
 *.VC.db
